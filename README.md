@@ -13,7 +13,7 @@
  - Ao detectarmos plágio, os alunos envolvidos serão penalizados.
  - Ao final de cada prática, os arquivos devem ser enviados através do E-disciplinas.
  - O aluno que não enviar o exercício não obterá nota referente ao mesmo.
- - Quaisquer problemas na execução das práticas, entrar em contato com os monitores.
+ - Quaisquer problemas na execução das práticas, entrar em contato com os monitores responsáveis pela disciplina.
  
 ### Instruções para abrir os códigos no Google Colab:
  
@@ -35,7 +35,7 @@
 
 6. O Colab salva periodicamente as alterações do seu código, porém, qualquer arquivo localizado no diretório deles será **apagado** ao desconectar-se da plataforma.
 
-### Listas de Exercício
+### Listas de Exercícios
 
  - [Lista de Exercício 1](praticas/Lista_de_Exercicio_1.ipynb)
 
